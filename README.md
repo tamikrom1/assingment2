@@ -53,6 +53,8 @@ The application is integrated into a multi-level menu system:
 
 3.Admin Area: Manage queues, view history, and perform administrative searches.
 
+<img width="1920" height="1040" alt="image" src="https://github.com/user-attachments/assets/9d5ce529-9543-42dd-86cb-933b89fe7773" />
+
 
 Work Process
 
